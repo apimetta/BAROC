@@ -1,0 +1,27 @@
+#Bod{background-color:#45454d;color:#333333;font-family:DFKai-sb;font-size:20px;}
+#idS01{text-align: center;background-color:#ffffff;margin-top:-10px;margin-left:-10px;margin-right:-10px;height:70px;}
+#imgS{width:200px;margin-top:10px;}
+#idS02{text-align: center;padding:4px;}
+#Sp{font-size:16px;font-family:DFKai-sb;color:#FFD970;}
+#TB01{margin:auto;width:1200px;background-color:#2D2424;}
+#TB01 td,#TB02 td{padding:0px;background-color:#2D2424;}
+#TB02{margin:0px;padding:0px;background-color:#2D2424;}
+.imgS00{width:200px;padding:0px;}
+#TB01 #TD{width:220px;background-color:#BECA5C;padding:0px;}
+#TB01 #TD00{background-color:#F6EEC9;padding:0px;}
+#TB01 #TD01{background-color:#F6EEC9;text-align: center;padding:0px;}
+#idS03{height:20px;padding:5px;margin-left:10px;}
+.sp01{color:#799351;font-weight:600;font-family:DFKai-sb;font-size:16px;}
+.sp02{font-weight:600;}
+.sp03{color:#A20A0A;}
+.sp04{color:#799351;font-weight:600;font-family:DFKai-sb;font-size:16px;margin-left:-8px;}
+.aH{text-decoration: none;color:#0c9463;font-weight:600;font-size:16px;}
+.aH:hover,.aH00:hover{background-color:#A20A0A;color:#ffffff;font-size:16px;}
+.aH00{text-decoration: none;color:#0c9463;font-weight:600;font-size:16px;}
+#uL{list-style: none;font-size:18px;line-height:2em;margin-top:30px;margin-left:-10px;}
+.aOn{text-decoration:none;color:#333333;text-align:left;letter-spacing:0.1em;font-size:20px;}
+.aOn:hover{background-color:#0c9463;color:#ffffff;padding:3px;}
+.aOnT{text-decoration:none;background-color:#0c9463;color:#ffffff;letter-spacing:0.1em;font-size:20px;padding:5px;}
+#mainframe{width:950px;}
+.aOnL{text-decoration:none;color:#333333;text-align:left;letter-spacing:0.1em;font-size:17px;}
+.aOnL:hover{background-color:#A9294F;color:#ffffff;padding:2px;}
