@@ -29,17 +29,6 @@
     <title>中國佛教會官方網站,BAROC</title>
     <script src="bar/js/jiaodiantu.js" type="text/javascript"></script> 
     <script>
-        window.onload=function(){
-            if (navigator.geolocation){
-                navigator.geolocation.getCurrentPosition(displayLocation);
-            }
-        }
-        function displayLocation(position){
-            var measureTime=new Date(position.timestamp);
-            document.getElementById("location").innerHTML="今天是西元"+measureTime.toLocaleString();
-        }
-    </script>
-    <script>
     function reinitIframe(){
         var iframe = document.getElementById("mainframe");
         try{
