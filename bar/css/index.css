@@ -1,6 +1,6 @@
-/*¾ãÅé°Ï¶ô¼Ë¦¡³]©w*/
+/*æ•´é«”å€å¡Šæ¨£å¼è¨­å®š*/
 #bodyDiv{width:100%;margin-top:0px;margin-left:0px;background-color:#45454d;font-family:Arial,MingLiu,Sans-serif;font-size:18px;}
-/*¿ï³æ¤£ÀH¨÷¶bÅÜ°Ê¼Ë¦¡³]©w*/
+/*é¸å–®ä¸éš¨å·è»¸è®Šå‹•æ¨£å¼è¨­å®š*/
 #fixed-center{position:fixed;top:0;z-index:99;width:100%;background-color:#ffffff;}
 #divTop{width:650px;height:100px;margin:auto;}
 #logoImg{width:300px;padding-top:17px;float:left;}
@@ -10,6 +10,6 @@
 #divIframe{padding-top:0px;margin: auto;text-align: center;}
 #mainframe{margin-top:58px;height:1980px;background-color:#ffffff;width:1200px;}
 #divFoot{background: linear-gradient(60deg, #35b0ab 0%,#c5f0a4,#b6ffea,#c83660 100%);width:101%;height:50px;position: fixed;bottom:0px;margin-left:-10px;margin-right:-10px;}
-#divFoot div{width:600px;margin:auto;text-align: center;border:0px dashed #333333;margin-top:0px;padding:10px;letter-spacing:0.15em;font-size:18px;}
+#divFoot div{width:1200px;margin:auto;text-align: center;border:0px dashed #333333;margin-top:0px;padding:10px;letter-spacing:0.15em;font-size:18px;}
 .sp00{font-size: 12px;}
 .sp01{font-size: 12px;margin-left:20px;}
